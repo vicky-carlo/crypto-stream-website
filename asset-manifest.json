@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-stream-website/static/css/main.cc4b3944.css",
+    "main.js": "/crypto-stream-website/static/js/main.5f539de8.js",
+    "index.html": "/crypto-stream-website/index.html",
+    "main.cc4b3944.css.map": "/crypto-stream-website/static/css/main.cc4b3944.css.map",
+    "main.5f539de8.js.map": "/crypto-stream-website/static/js/main.5f539de8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4b3944.css",
+    "static/js/main.5f539de8.js"
+  ]
+}
