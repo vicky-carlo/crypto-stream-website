@@ -17,3 +17,11 @@ The Crypto Stream Website is a real-time cryptocurrency tracking application bui
 - **JavaScript**: The programming language used for interactive elements and API integration.
 - **CSS**: For styling the application.
 - **API**: Fetches real-time cryptocurrency data and news.
+
+
+
+
+https://github.com/user-attachments/assets/ea45c700-906b-43eb-a755-13093511f158
+
+
+
